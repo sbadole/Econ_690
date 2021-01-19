@@ -5,8 +5,10 @@
 *********   Did Unilateral Divorce Laws Raise Divorce Rates?      ********  
 *********            A Reconciliation and New Results             ********
 *********                   By Justin Wolfers                     ********
+*********                 Replication of paper                    ********
 *********           By Sachin Badole and Vikrant Kamble           ********
-*********                     Econ 690 Final Project              ********
+*********                Econ 690 Final Project                   ********
+*********                                                         ********
 **************************************************************************
 **************************************************************************
 
